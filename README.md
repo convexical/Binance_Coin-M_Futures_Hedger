@@ -13,6 +13,11 @@ Developed by [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.co
 
 `Binance Futures Coin-M Hedger`                                                        
 
+## Other Languages / Ported code
+This code has been currently ported to 1 different language - <br/>
+https://github.com/Xpipe/Binance_Coin-M_Futures_Hedger - python<br/>
+If you port this code to another language (NodeJS/Javascript anyone?), please contact me on Twitter.
+
 ## What is this project?
 This project contains code that automates / places various trades (long [buy] & short [sell]) to create a hedge (synthetic USD) of your COIN-M Futures Wallet on Binance.  For example, if you deposit 1 BTC on Binance under your spot wallet and transfer it into your Binance COIN-M futures account, it will automatically place trades until you are hedged (aka it will create short limit orders).  You can also set a min/max amount per order that the bot will randomize with to get your current open position to be hedged to your Coin-M Futures wallet balance.  If you choose to run the code with a cronjob or scheduler, it will continuously monitor your wallet balance and appropriately buy or sell to get the current open position to match your wallet balance.
 
