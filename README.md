@@ -9,7 +9,7 @@
 
 </pre>
 
-Developed by [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/mahaviracrypto.svg?style=social&label=MahaviraCrypto)](https://twitter.com/mahaviracrypto) - https://twitter.com/MahaviraCrypto
+Developed by [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Convexical.svg?style=social&label=Convexical)](https://twitter.com/Convexical) - https://twitter.com/Convexical
 
 `Binance Futures Coin-M Hedger`                                                        
 
@@ -63,7 +63,7 @@ It's important to note that in order to create a hedge - you are creating a posi
 As of the release of this code, I have not tested it fully on other coins / tokens.  However, it wouldn't be that difficult to modify this code for other coins / tokens.  If you're interested in getting this code to work with other coins / tokens, please reach out to me.
 
 ## How do I get support for this program?
-If you're looking for support on how to set this up or you just want to reach out, please contact me on Twitter - https://twitter.com/MahaviraCrypto.
+If you're looking for support on how to set this up or you just want to reach out, please contact me on Twitter - https://twitter.com/Convexical.
 
 ## Important notes
 This code utilizes the JaggedSoft PHP Binance API library (https://github.com/jaggedsoft/php-binance-api).  I've added various pieces of code to bring that library up to date to interact with the Binance Coin-M futures.
@@ -72,11 +72,11 @@ This code utilizes the JaggedSoft PHP Binance API library (https://github.com/ja
 Please use this code at your own risk.  If you modify certain variables to be beyond certain ranges, you may end up with bad results.  Always test first and optimize after.
 
 <pre>
-               .__                .__                                                 __          
-  _____ _____  |  |__ _____ ___  _|__|___________          ___________ ___.__._______/  |_  ____  
- /     \\__  \ |  |  \\__  \\  \/ /  \_  __ \__  \       _/ ___\_  __ <   |  |\____ \   __\/  _ \ 
-|  Y Y  \/ __ \|   Y  \/ __ \\   /|  ||  | \// __ \_     \  \___|  | \/\___  ||  |_> >  | (  <_> )
-|__|_|  (____  /___|  (____  /\_/ |__||__|  (____  /      \___  >__|   / ____||   __/|__|  \____/ 
-      \/     \/     \/     \/                    \/           \/       \/     |__|                
-
+                                             .__                 .__   
+  ____   ____    ____ ___  __  ____  ___  ___|__|  ____  _____   |  |  
+_/ ___\ /  _ \  /    \\  \/ /_/ __ \ \  \/  /|  |_/ ___\ \__  \  |  |  
+\  \___(  <_> )|   |  \\   / \  ___/  >    < |  |\  \___  / __ \_|  |__
+ \___  >\____/ |___|  / \_/   \___  >/__/\_ \|__| \___  >(____  /|____/
+     \/             \/            \/       \/         \/      \/       
+		 
 </pre>
